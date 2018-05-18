@@ -6,3 +6,15 @@ body {
 .jumbotron {
     background-color: #7289DA;
 }
+
+figure {
+    display: inline-block;
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
+    text-align: center;
+}
